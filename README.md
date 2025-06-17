@@ -56,9 +56,14 @@
 - 所有代码均为个人学习输出，持续迭代优化
 - 本项目作为算法能力展示，可用于申请硕士/博士时的技术证明材料之一
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RemainMemory&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemainMemory&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RemainMemory&show_icons=true&theme=tokyonight" />
 </p>
 
+## 📚 Top Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemainMemory&layout=compact&theme=tokyonight" />
+</p>
