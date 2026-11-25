@@ -1,63 +1,31 @@
-# 📘 算法刷题学习计划（阶段一）
+# Feiyu (Ferry) Chen
 
-本项目记录了我在洛谷等平台上的算法刷题学习过程，目标是夯实算法基础、提升编程能力，并为未来的科研项目和出国申请做好准备。
+**M.S. student in Robotics, University of Minnesota Twin Cities**  
+Graduate Research Assistant, Minnesota Robotics Institute (MnRI)
 
----
+I build AI agents for mobile robots. I’m interested in how robots use spatial memory to plan where to go, decide what to observe, and verify the outcome of an action.
 
-## 🎯 学习目标
+## Current research
 
-- 掌握经典数据结构与算法
-- 熟练使用 Python / C++ 进行代码实现
-- 每周聚焦一个专题，持续 8 周
-- 输出题解、总结与错题归纳
+### Human–robot collaboration for urban digital twins
 
----
+At MnRI, I contribute to research on using mobile robots to collect spatial data for urban digital twins. My work connects language-model agents to ROS 2 through MCP so a robot can report its observations, maps, and motion state. I’m interested in spatial memory for indoor navigation, scan quality, and safe autonomous operation.
 
-## 📅 阶段一：8 周学习路径
+## Selected projects
 
-| 周次 | 专题 |
-|------|------|
-| 第 1 周 | 基础语法 & 数组操作 |
-| 第 2 周 | 排序与查找 |
-| 第 3 周 | 字符串与模拟 |
-| 第 4 周 | 递归与搜索（DFS / BFS） |
-| 第 5 周 | 动态规划（DP） |
-| 第 6 周 | 贪心算法 |
-| 第 7 周 | 图论基础 |
-| 第 8 周 | 数据结构基础（栈、队列、堆、树） |
+- **Opv2 · Operating Systems Learning Companion** (undergraduate thesis, 2025). I built a full-stack course Q&A system with keyword and vector search, local BERT embeddings, and answers grounded in retrieved passages. The application uses PostgreSQL/pgvector, DeepSeek, FastAPI, and Vue 3. [Repository](https://github.com/RemainMemory/Opv2)
+- **Classroom Translator** (team contribution). I worked on streaming bilingual captions for an on-device English-to-Chinese lecture translation pipeline on Apple Silicon. [Public project](https://github.com/Kuko1414/classroom-translator)
+- **Human-tracking** (earlier computer vision project). A Python desktop tool for detecting people in images, videos, and live webcam footage with TensorFlow and OpenCV. [Repository](https://github.com/RemainMemory/Human-tracking)
 
----
+## Industry experience
 
-## ✍️ 每周任务安排
+- **AI Full-Stack Intern, Beijing Shuimu Molecular Biotechnology** (2026). Contributed to agent workflows and validation for long-document tasks.
+- **Algorithm Intern, East China Architectural Design & Research Institute** (2024–2025). Built a local retrieval and question-answering pipeline for technical documents.
 
-- 每天刷 1–2 道题目
-- 每周末总结专题思路与错题
-- 持续更新题解文件与专题笔记
+## Education and publication
 
----
+- **M.S. in Robotics**, University of Minnesota Twin Cities, 2026–present.
+- **B.Eng. in Artificial Intelligence**, Kunming University of Science and Technology, 2025.
+- **“Neural Network-Based Prediction and Analysis of Netflix Subscription Duration.”** International Conference on Data Analysis and Machine Learning, 2023.
 
-## 📈 进度追踪（持续更新）
-
-- ✅ 第 1 周完成
-- ✅ 第 2 周完成
-- ⏳ 第 3 周进行中...
-- ❌ 第 4–8 周待完成
-
----
-
-## 📂 题解说明
-
-所有题解均按专题分类，并附带注释说明与解题思路，适合自己复习与他人参考。
-
----
-
-## 📌 备注
-
-- 所有代码均为个人学习输出，持续迭代优化
-- 本项目作为算法能力展示，可用于申请硕士/博士时的技术证明材料之一
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RemainMemory&show_icons=true&theme=tokyonight" />
-</p>
+[Earlier algorithm practice plan · 算法刷题学习计划](https://github.com/RemainMemory/RemainMemory/blob/d85e64eb09059e23b4ced939c1077b1298eb2114/README.md)
