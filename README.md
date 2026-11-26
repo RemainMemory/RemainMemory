@@ -1,31 +1,36 @@
-# Feiyu (Ferry) Chen
+![Feiyu Chen · Robotics and Spatial AI. A robot route through a schematic indoor map.](profile-cover.jpg)
 
-**M.S. student in Robotics, University of Minnesota Twin Cities**  
-Graduate Research Assistant, Minnesota Robotics Institute (MnRI)
+**Hi, I’m Ferry.** I’m a robotics master’s student and research assistant at the University of Minnesota. A question that ties my work together is what a robot should remember about a place so it can make a better decision on its next visit.
 
-I build AI agents for mobile robots. I’m interested in how robots use spatial memory to plan where to go, decide what to observe, and verify the outcome of an action.
+[Research ↓](#research) · [Selected work ↓](#selected-work)
 
-## Current research
+## Research
 
-### Human–robot collaboration for urban digital twins
+**Robots that help build urban digital twins**  
+At the Minnesota Robotics Institute, I connect language-model agents to ROS 2 so a mobile robot can report what it sees and where it is. I’m interested in using those observations to choose where to scan next and judge what a new scan adds to a map.
 
-At MnRI, I contribute to research on using mobile robots to collect spatial data for urban digital twins. My work connects language-model agents to ROS 2 through MCP so a robot can report its observations, maps, and motion state. I’m interested in spatial memory for indoor navigation, scan quality, and safe autonomous operation.
+## Selected work
 
-## Selected projects
+### [Opv2 · A study companion for operating systems](https://github.com/RemainMemory/Opv2)
 
-- **Opv2 · Operating Systems Learning Companion** (undergraduate thesis, 2025). I built a full-stack course Q&A system with keyword and vector search, local BERT embeddings, and answers grounded in retrieved passages. The application uses PostgreSQL/pgvector, DeepSeek, FastAPI, and Vue 3. [Repository](https://github.com/RemainMemory/Opv2)
-- **Classroom Translator** (team contribution). I worked on streaming bilingual captions for an on-device English-to-Chinese lecture translation pipeline on Apple Silicon. [Public project](https://github.com/Kuko1414/classroom-translator)
-- **Human-tracking** (earlier computer vision project). A Python desktop tool for detecting people in images, videos, and live webcam footage with TensorFlow and OpenCV. [Repository](https://github.com/RemainMemory/Human-tracking)
+A student can ask a question about an operating systems concept and trace the answer to the course material. I built the hybrid search pipeline and the interface that presents the answer and its evidence.
 
-## Industry experience
+### [Classroom Translator · Live bilingual captions](https://github.com/Kuko1414/classroom-translator)
 
-- **AI Full-Stack Intern, Beijing Shuimu Molecular Biotechnology** (2026). Contributed to agent workflows and validation for long-document tasks.
-- **Algorithm Intern, East China Architectural Design & Research Institute** (2024–2025). Built a local retrieval and question-answering pipeline for technical documents.
+An English-to-Chinese lecture captioning pipeline that runs on Apple Silicon. I worked on streaming captions so readers get a first translation while the lecturer is still speaking.
 
-## Education and publication
+### [Human-tracking · Person detection](https://github.com/RemainMemory/Human-tracking)
 
-- **M.S. in Robotics**, University of Minnesota Twin Cities, 2026–present.
-- **B.Eng. in Artificial Intelligence**, Kunming University of Science and Technology, 2025.
-- **“Neural Network-Based Prediction and Analysis of Netflix Subscription Duration.”** International Conference on Data Analysis and Machine Learning, 2023.
+An earlier computer vision project that uses TensorFlow and OpenCV to detect people in photos, recorded video, and a live camera feed.
+
+<details>
+<summary>Education, experience, and publication</summary>
+
+- **University of Minnesota Twin Cities** · M.S. student in Robotics and Graduate Research Assistant at the Minnesota Robotics Institute.
+- **Kunming University of Science and Technology** · B.Eng. in Artificial Intelligence, 2025.
+- **Industry** · Built agent tools and document validation during a full-stack AI internship at Beijing Shuimu Molecular Biotechnology. Built a local retrieval pipeline during an algorithm internship at East China Architectural Design & Research Institute.
+- **Publication** · “Neural Network-Based Prediction and Analysis of Netflix Subscription Duration.” International Conference on Data Analysis and Machine Learning, 2023.
 
 [Earlier algorithm practice plan · 算法刷题学习计划](https://github.com/RemainMemory/RemainMemory/blob/d85e64eb09059e23b4ced939c1077b1298eb2114/README.md)
+
+</details>
